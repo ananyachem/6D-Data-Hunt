@@ -47,4 +47,4 @@ This was a actually a circle. The reason it appears to be an ellipse is because 
 ### Shape 6: 
 This was just the 6D coordinates drawn out. Plotting it out in 2D and 3D was not useful whatsoever, since projecting down the image made it look like some sort of an asterisk shape. But, if you take a quick look at the data, you can see that each row is essentially just 1D, so plotting just the raw data was more than enough.
 
-With this, I concluded my project.
+With these results, I concluded my project.
